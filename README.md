@@ -1,5 +1,4 @@
 # Kaggle-Competition
-Final Project - DADS6003 APPLIED MACHINE LEARNING
 
 Master of Science in Data Analytics and Data Science (DADS), National Institute of Development Administration (NIDA), Thailand
 
